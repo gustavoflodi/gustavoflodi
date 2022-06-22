@@ -1,6 +1,6 @@
 ### Hi There, I'm Gustavo, engineering student at USP in Brazil!
 
-## I'm a soon-to-be Mechatronics Engineer with a deep interest for Web Development and Data Science.
+## I'm a soon-to-be Mechatronics Engineer with a deep interest for Data Science and Web Development.
 
 - 🔭 Addicted to learning new things with online courses!
 - 🌱 Open to work!
