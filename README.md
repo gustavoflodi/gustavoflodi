@@ -1,13 +1,13 @@
-### Hi There, I'm Gustavo, engineering student at USP in Brazil!
+### Hi There, I'm Gustavo, Brazilian and Italian engineering student at USP in Brazil!
 
-## I'm a soon-to-be Mechatronics Engineer with a deep interest for Data Science and Web Development.
+## I'm a soon-to-be Mechatronics Engineer with a deep interest for Data Science, Data Warehousing, Web Development and new languages, currently know 4,not planing on stop learning.
 
-- 🔭 Addicted to learning new things with online courses!
+- 🔭 Addicted to learning new things with online courses and practical applications!
 - 🌱 Open to work!
 - 👯 Currently doing projects with Python, HTML, CSS, Javascript, C, SQL and VBA.
-- 🥅 2021 Goals [completed]: Land an exchange programm to Swiss, contribute more on Open-source projects and get my B2 Goethe Certificat.
+- 🥅 2021 Goals [completed]: Landed an exchange programm to Swiss, contributed more on Open-source projects and got my B2 Goethe Certificat.
 - ⚡ Fun fact: I love extracurricular activities, I'm currently the coordinator of an online event called SEMATRON, done annualy.
-I play the piano practically everyday. I like to learn new languages (Deutsch, Portuguese and English speaker).
+I play the piano practically everyday.
 
 ---
 
