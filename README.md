@@ -1,6 +1,6 @@
 ### Hi There, I'm Gustavo, Brazilian and Italian engineering student at USP in Brazil!
 
-## I'm a soon-to-be Mechatronics Engineer with a deep interest for Data Science, Data Warehousing, Web Development and new languages, currently know 4,not planing on stop learning.
+## I'm a soon-to-be Mechatronics Engineer with a deep interest for Data Science, Data Warehousing, Web Development and new languages, currently know 4, not planing on stop learning.
 
 - 🔭 Addicted to learning new things with online courses and practical applications!
 - 🌱 Open to work!
