@@ -1,4 +1,4 @@
-### Hi There, I'm Gustavo, Brazilian and Italian engineering student at USP in Brazil!
+### Hi There, I'm Gustavo, Brazilian and Italian engineer with a bachelor from USP in Brazil!
 
 ## Mechatronics Engineer with a deep interest for Data Science, Data Warehousing, Web Development and new languages, currently know 4, not planning on stop learning.
 
