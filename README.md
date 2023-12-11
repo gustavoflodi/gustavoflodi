@@ -35,5 +35,5 @@
 
 
 
-[instagram]: https://instagram.com/gustavofernandeslodi
-[linkedin]: https://www.linkedin.com/in/gustavo-lodi-10479513a/
+[instagram]: https://instagram.com/gustavolodi1
+[linkedin]: https://www.linkedin.com/in/gustavoflodi
