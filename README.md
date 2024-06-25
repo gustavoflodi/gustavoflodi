@@ -1,11 +1,10 @@
 ### Hi There, I'm Gustavo, Brazilian and Italian engineer with a bachelor from USP in Brazil!
 
-## Mechatronics Engineer with a deep interest for Data Science, Data Warehousing, Web Development and new languages, currently know 4, not planning on stop learning.
+## Data Scientist / Mechatronics Engineer with a deep interest for Data Analytics, Data Warehousing, Web Development and new languages, currently know 5 (English, German, Italian, Portuguese and Spanish), not planning on stop learning.
 
 - 🔭 Addicted to learning new things with online courses and practical applications!
 - 🌱 Open to work!
 - 👯 Currently doing projects with Python, HTML, CSS, Javascript, C, SQL and VBA.
-- 🥅 2021 Goals [completed]: Landed an exchange programm to Swiss, contributed more on Open-source projects and got my B2 Goethe Zertificat.
 - ⚡ Fun fact: I love extracurricular activities, I play the piano practically everyday.
 
 ---
